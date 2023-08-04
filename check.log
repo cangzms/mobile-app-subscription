@@ -1,0 +1,3366 @@
+
+  2023-08-03 11:27:02 Running ['artisan' check:expire] .......... 1,383ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:28:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:29:02 Running ['artisan' check:expire] .......... 1,355ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:30:02 Running ['artisan' check:expire] .......... 1,349ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:31:03 Running ['artisan' check:expire] .......... 1,348ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:32:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:33:02 Running ['artisan' check:expire] .......... 1,407ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:34:03 Running ['artisan' check:expire] .......... 1,404ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:35:02 Running ['artisan' check:expire] .......... 1,338ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:36:02 Running ['artisan' check:expire] .......... 1,363ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:37:02 Running ['artisan' check:expire] .......... 1,328ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:38:02 Running ['artisan' check:expire] .......... 1,326ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:39:02 Running ['artisan' check:expire] .......... 1,369ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:40:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:41:02 Running ['artisan' check:expire] .......... 1,423ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:42:02 Running ['artisan' check:expire] .......... 1,346ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:43:02 Running ['artisan' check:expire] .......... 1,328ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:44:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:45:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:46:02 Running ['artisan' check:expire] .......... 1,377ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:47:03 Running ['artisan' check:expire] .......... 1,430ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:48:02 Running ['artisan' check:expire] .......... 1,391ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:49:02 Running ['artisan' check:expire] .......... 1,412ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:50:02 Running ['artisan' check:expire] .......... 1,375ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:51:02 Running ['artisan' check:expire] .......... 1,392ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:52:02 Running ['artisan' check:expire] .......... 1,394ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:53:02 Running ['artisan' check:expire] .......... 1,400ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:54:02 Running ['artisan' check:expire] .......... 1,381ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:55:03 Running ['artisan' check:expire] .......... 1,355ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:56:02 Running ['artisan' check:expire] .......... 1,355ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:57:02 Running ['artisan' check:expire] .......... 1,335ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:58:03 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 11:59:02 Running ['artisan' check:expire] .......... 1,385ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:00:02 Running ['artisan' check:expire] .......... 1,980ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:01:02 Running ['artisan' check:expire] .......... 1,482ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:02:02 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:03:02 Running ['artisan' check:expire] .......... 1,374ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:04:03 Running ['artisan' check:expire] .......... 1,437ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:05:02 Running ['artisan' check:expire] .......... 1,407ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:06:02 Running ['artisan' check:expire] .......... 1,394ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:07:02 Running ['artisan' check:expire] .......... 1,340ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:08:03 Running ['artisan' check:expire] .......... 1,370ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:09:02 Running ['artisan' check:expire] .......... 1,335ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:10:02 Running ['artisan' check:expire] .......... 1,443ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:11:02 Running ['artisan' check:expire] .......... 1,337ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:12:03 Running ['artisan' check:expire] .......... 1,497ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:13:02 Running ['artisan' check:expire] .......... 1,387ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:14:02 Running ['artisan' check:expire] .......... 1,341ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:15:03 Running ['artisan' check:expire] .......... 1,370ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:16:02 Running ['artisan' check:expire] .......... 1,461ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:17:02 Running ['artisan' check:expire] .......... 1,422ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:18:02 Running ['artisan' check:expire] .......... 1,384ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:19:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:20:02 Running ['artisan' check:expire] .......... 1,349ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:21:02 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:22:02 Running ['artisan' check:expire] .......... 1,352ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:23:02 Running ['artisan' check:expire] .......... 1,327ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:24:02 Running ['artisan' check:expire] .......... 1,386ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:25:02 Running ['artisan' check:expire] .......... 1,379ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:26:02 Running ['artisan' check:expire] .......... 1,341ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:27:02 Running ['artisan' check:expire] .......... 1,366ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:28:02 Running ['artisan' check:expire] .......... 1,374ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:29:02 Running ['artisan' check:expire] .......... 1,373ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:30:02 Running ['artisan' check:expire] .......... 1,326ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:31:02 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:32:02 Running ['artisan' check:expire] .......... 1,385ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:33:02 Running ['artisan' check:expire] .......... 1,376ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:34:02 Running ['artisan' check:expire] .......... 1,324ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:35:02 Running ['artisan' check:expire] .......... 1,325ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:36:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:37:02 Running ['artisan' check:expire] .......... 1,341ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:38:02 Running ['artisan' check:expire] .......... 1,367ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:39:02 Running ['artisan' check:expire] .......... 1,349ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:40:02 Running ['artisan' check:expire] .......... 1,339ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:41:02 Running ['artisan' check:expire] .......... 1,318ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:42:02 Running ['artisan' check:expire] .......... 1,355ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:43:03 Running ['artisan' check:expire] .......... 1,327ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:44:02 Running ['artisan' check:expire] .......... 1,363ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:45:02 Running ['artisan' check:expire] .......... 1,387ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:46:02 Running ['artisan' check:expire] .......... 1,371ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:47:02 Running ['artisan' check:expire] .......... 1,377ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:48:02 Running ['artisan' check:expire] .......... 1,362ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:49:02 Running ['artisan' check:expire] .......... 1,320ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:50:02 Running ['artisan' check:expire] .......... 1,323ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:51:02 Running ['artisan' check:expire] .......... 1,361ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:52:02 Running ['artisan' check:expire] .......... 1,366ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:53:02 Running ['artisan' check:expire] .......... 1,339ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:54:02 Running ['artisan' check:expire] .......... 1,324ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:55:02 Running ['artisan' check:expire] .......... 1,323ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:56:02 Running ['artisan' check:expire] .......... 1,322ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:57:02 Running ['artisan' check:expire] .......... 1,319ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:58:02 Running ['artisan' check:expire] .......... 1,326ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 12:59:02 Running ['artisan' check:expire] .......... 1,320ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:00:02 Running ['artisan' check:expire] .......... 1,348ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:01:02 Running ['artisan' check:expire] .......... 1,336ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:02:02 Running ['artisan' check:expire] .......... 1,370ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:03:02 Running ['artisan' check:expire] .......... 1,316ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:04:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:05:02 Running ['artisan' check:expire] .......... 1,309ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:06:02 Running ['artisan' check:expire] .......... 1,380ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:07:02 Running ['artisan' check:expire] .......... 1,322ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:08:02 Running ['artisan' check:expire] .......... 1,335ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:09:02 Running ['artisan' check:expire] .......... 1,326ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:10:02 Running ['artisan' check:expire] .......... 1,324ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:11:02 Running ['artisan' check:expire] .......... 1,324ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:12:02 Running ['artisan' check:expire] .......... 2,168ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:13:02 Running ['artisan' check:expire] .......... 1,415ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:14:03 Running ['artisan' check:expire] .......... 1,318ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:15:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:16:02 Running ['artisan' check:expire] .......... 1,318ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:17:02 Running ['artisan' check:expire] .......... 1,369ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:18:02 Running ['artisan' check:expire] .......... 1,323ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 13:19:02 Running ['artisan' check:expire] .......... 1,324ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:07:11 Running ['artisan' check:expire] .......... 1,502ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:08:02 Running ['artisan' check:expire] .......... 1,471ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:09:02 Running ['artisan' check:expire] .......... 1,375ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:10:03 Running ['artisan' check:expire] .......... 1,436ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:11:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:12:02 Running ['artisan' check:expire] .......... 1,342ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:13:02 Running ['artisan' check:expire] .......... 1,326ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:14:02 Running ['artisan' check:expire] .......... 1,369ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:15:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at /var/www/routes/api.php:32
+     28▕     return $request->user();
+     29▕ });*/
+     30▕ 
+     31▕ 
+  ➜  32▕
+
+      [2m+3 vendor frames [22m
+
+  4   /var/www/app/Providers/RouteServiceProvider.php:34
+      Illuminate\Routing\RouteRegistrar::group("/var/www/routes/api.php")
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at /var/www/routes/api.php:32
+     28▕     return $request->user();
+     29▕ });*/
+     30▕ 
+     31▕ 
+  ➜  32▕
+
+      [2m+3 vendor frames [22m
+
+  4   /var/www/app/Providers/RouteServiceProvider.php:34
+      Illuminate\Routing\RouteRegistrar::group("/var/www/routes/api.php")
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at /var/www/routes/api.php:32
+     28▕     return $request->user();
+     29▕ });*/
+     30▕ 
+     31▕ 
+  ➜  32▕
+
+      [2m+3 vendor frames [22m
+
+  4   /var/www/app/Providers/RouteServiceProvider.php:34
+      Illuminate\Routing\RouteRegistrar::group("/var/www/routes/api.php")
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at /var/www/routes/api.php:32
+     28▕     return $request->user();
+     29▕ });*/
+     30▕ 
+     31▕ 
+  ➜  32▕
+
+      [2m+3 vendor frames [22m
+
+  4   /var/www/app/Providers/RouteServiceProvider.php:34
+      Illuminate\Routing\RouteRegistrar::group("/var/www/routes/api.php")
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+
+  2023-08-03 14:20:02 Running ['artisan' check:expire] .......... 1,441ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:21:02 Running ['artisan' check:expire] .......... 1,381ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:22:02 Running ['artisan' check:expire] .......... 1,503ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:23:02 Running ['artisan' check:expire] .......... 1,353ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:24:02 Running ['artisan' check:expire] .......... 1,367ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:25:03 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:26:02 Running ['artisan' check:expire] .......... 1,362ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:27:02 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:28:03 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:29:02 Running ['artisan' check:expire] .......... 1,376ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:30:02 Running ['artisan' check:expire] .......... 1,326ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:31:03 Running ['artisan' check:expire] .......... 1,357ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:32:02 Running ['artisan' check:expire] .......... 1,394ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:33:02 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+   ParseError 
+
+  syntax error, unexpected token "}", expecting identifier or variable or "{" or "$"
+
+  at /var/www/app/Console/Commands/CheckExpire.php:45
+     41▕ 
+     42▕             // OS değerine göre doğrulama
+     43▕             if ($os === 'ios') {
+     44▕                 $isValid = Http::post('localhost:8080/api/checkOs')->
+  ➜  45▕             } elseif ($os === 'android') {
+     46▕                 $isValid = true;
+     47▕             } else {
+     48▕                 $isValid = false;
+     49▕             }
+
+      [2m+1 vendor frames [22m
+
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass("App\Console\Commands\CheckExpire")
+      [2m+1 vendor frames [22m
+
+  4   /var/www/app/Console/Kernel.php:23
+      Illuminate\Foundation\Console\Kernel::load()
+
+
+   ParseError 
+
+  syntax error, unexpected token "}", expecting identifier or variable or "{" or "$"
+
+  at /var/www/app/Console/Commands/CheckExpire.php:45
+     41▕ 
+     42▕             // OS değerine göre doğrulama
+     43▕             if ($os === 'ios') {
+     44▕                 $isValid = Http::post('localhost:8080/api/checkOs')->
+  ➜  45▕             } elseif ($os === 'android') {
+     46▕                 $isValid = true;
+     47▕             } else {
+     48▕                 $isValid = false;
+     49▕             }
+
+      [2m+1 vendor frames [22m
+
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass("App\Console\Commands\CheckExpire")
+      [2m+1 vendor frames [22m
+
+  4   /var/www/app/Console/Kernel.php:23
+      Illuminate\Foundation\Console\Kernel::load()
+
+
+  2023-08-03 14:36:02 Running ['artisan' check:expire] .......... 1,320ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:37:02 Running ['artisan' check:expire] .......... 1,404ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:38:02 Running ['artisan' check:expire] .......... 1,359ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:39:02 Running ['artisan' check:expire] .......... 1,322ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:40:02 Running ['artisan' check:expire] .......... 1,384ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:41:02 Running ['artisan' check:expire] .......... 1,444ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:42:02 Running ['artisan' check:expire] .......... 1,325ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:43:02 Running ['artisan' check:expire] .......... 1,336ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:44:02 Running ['artisan' check:expire] .......... 1,362ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:45:02 Running ['artisan' check:expire] .......... 1,344ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:46:02 Running ['artisan' check:expire] .......... 1,313ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:47:02 Running ['artisan' check:expire] .......... 1,321ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:48:03 Running ['artisan' check:expire] .......... 1,339ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:49:02 Running ['artisan' check:expire] .......... 1,352ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:50:02 Running ['artisan' check:expire] .......... 1,360ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:51:02 Running ['artisan' check:expire] .......... 1,316ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:52:02 Running ['artisan' check:expire] .......... 1,316ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:53:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:54:02 Running ['artisan' check:expire] .......... 1,371ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:55:02 Running ['artisan' check:expire] .......... 1,320ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:56:02 Running ['artisan' check:expire] .......... 1,343ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:57:02 Running ['artisan' check:expire] .......... 1,353ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:58:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 14:59:03 Running ['artisan' check:expire] .......... 1,516ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:00:03 Running ['artisan' check:expire] .......... 1,376ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:01:02 Running ['artisan' check:expire] .......... 1,451ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:02:02 Running ['artisan' check:expire] .......... 1,350ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:03:02 Running ['artisan' check:expire] .......... 1,383ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:04:02 Running ['artisan' check:expire] .......... 1,374ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:05:02 Running ['artisan' check:expire] .......... 1,383ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:06:02 Running ['artisan' check:expire] .......... 1,351ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:07:02 Running ['artisan' check:expire] .......... 1,476ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:08:02 Running ['artisan' check:expire] .......... 1,333ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:09:02 Running ['artisan' check:expire] .......... 1,318ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:10:03 Running ['artisan' check:expire] .......... 1,431ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:11:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:12:02 Running ['artisan' check:expire] .......... 1,384ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:13:02 Running ['artisan' check:expire] .......... 1,334ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:14:02 Running ['artisan' check:expire] .......... 1,413ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:15:03 Running ['artisan' check:expire] .......... 1,976ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:16:02 Running ['artisan' check:expire] .......... 1,685ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:17:02 Running ['artisan' check:expire] .......... 1,381ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:18:02 Running ['artisan' check:expire] .......... 1,387ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:19:03 Running ['artisan' check:expire] .......... 1,340ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:20:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:21:02 Running ['artisan' check:expire] .......... 1,366ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:22:02 Running ['artisan' check:expire] .......... 1,323ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:23:02 Running ['artisan' check:expire] .......... 1,363ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:24:02 Running ['artisan' check:expire] .......... 1,380ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:25:02 Running ['artisan' check:expire] .......... 1,344ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:26:02 Running ['artisan' check:expire] .......... 1,451ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:27:02 Running ['artisan' check:expire] .......... 1,442ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:28:02 Running ['artisan' check:expire] .......... 1,490ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:29:02 Running ['artisan' check:expire] .......... 1,436ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:30:02 Running ['artisan' check:expire] .......... 1,337ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:31:02 Running ['artisan' check:expire] .......... 1,323ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:32:02 Running ['artisan' check:expire] .......... 1,325ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:33:02 Running ['artisan' check:expire] .......... 1,363ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:34:02 Running ['artisan' check:expire] .......... 1,404ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:35:02 Running ['artisan' check:expire] .......... 1,322ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:36:02 Running ['artisan' check:expire] .......... 1,369ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:37:02 Running ['artisan' check:expire] .......... 1,374ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:38:02 Running ['artisan' check:expire] .......... 1,328ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:39:02 Running ['artisan' check:expire] .......... 1,434ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:40:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:41:02 Running ['artisan' check:expire] .......... 1,424ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:42:02 Running ['artisan' check:expire] .......... 1,449ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:43:02 Running ['artisan' check:expire] .......... 1,596ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:44:02 Running ['artisan' check:expire] .......... 1,343ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:45:02 Running ['artisan' check:expire] .......... 1,599ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:46:02 Running ['artisan' check:expire] .......... 1,513ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:47:02 Running ['artisan' check:expire] .......... 1,402ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:48:02 Running ['artisan' check:expire] .......... 1,415ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:49:02 Running ['artisan' check:expire] .......... 1,512ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:50:02 Running ['artisan' check:expire] .......... 1,385ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:51:02 Running ['artisan' check:expire] .......... 1,435ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:52:02 Running ['artisan' check:expire] .......... 1,414ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:53:02 Running ['artisan' check:expire] .......... 1,379ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:54:02 Running ['artisan' check:expire] .......... 1,362ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:55:02 Running ['artisan' check:expire] .......... 1,318ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:56:02 Running ['artisan' check:expire] .......... 1,399ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:57:02 Running ['artisan' check:expire] .......... 1,315ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:58:02 Running ['artisan' check:expire] .......... 1,534ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 15:59:02 Running ['artisan' check:expire] .......... 1,367ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:00:02 Running ['artisan' check:expire] .......... 2,257ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:01:02 Running ['artisan' check:expire] .......... 1,524ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:02:02 Running ['artisan' check:expire] .......... 1,388ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:03:02 Running ['artisan' check:expire] .......... 1,334ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:04:02 Running ['artisan' check:expire] .......... 1,325ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:05:02 Running ['artisan' check:expire] .......... 1,321ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:06:02 Running ['artisan' check:expire] .......... 1,542ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:07:02 Running ['artisan' check:expire] .......... 1,342ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:08:03 Running ['artisan' check:expire] .......... 1,426ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:09:02 Running ['artisan' check:expire] .......... 1,307ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:10:02 Running ['artisan' check:expire] .......... 1,457ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:11:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:12:02 Running ['artisan' check:expire] .......... 1,341ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:13:02 Running ['artisan' check:expire] .......... 1,338ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:14:02 Running ['artisan' check:expire] .......... 1,381ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:15:03 Running ['artisan' check:expire] .......... 1,357ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:16:02 Running ['artisan' check:expire] .......... 1,321ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:17:02 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:18:03 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:19:02 Running ['artisan' check:expire] .......... 1,389ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:20:02 Running ['artisan' check:expire] .......... 1,367ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:21:02 Running ['artisan' check:expire] .......... 1,448ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:22:02 Running ['artisan' check:expire] .......... 1,322ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:23:02 Running ['artisan' check:expire] .......... 1,334ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:24:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:25:02 Running ['artisan' check:expire] .......... 1,361ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:26:02 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:27:03 Running ['artisan' check:expire] .......... 1,365ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:28:02 Running ['artisan' check:expire] .......... 1,315ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:29:02 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:30:02 Running ['artisan' check:expire] .......... 1,355ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:31:02 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:32:02 Running ['artisan' check:expire] .......... 1,353ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:33:02 Running ['artisan' check:expire] .......... 1,360ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:34:02 Running ['artisan' check:expire] .......... 1,401ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:35:02 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:36:02 Running ['artisan' check:expire] .......... 1,429ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:37:03 Running ['artisan' check:expire] .......... 1,379ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:38:02 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:39:02 Running ['artisan' check:expire] .......... 1,409ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:40:02 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:41:02 Running ['artisan' check:expire] .......... 1,383ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:42:02 Running ['artisan' check:expire] .......... 1,327ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:43:02 Running ['artisan' check:expire] .......... 1,315ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:44:02 Running ['artisan' check:expire] .......... 1,328ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:45:02 Running ['artisan' check:expire] .......... 1,363ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:46:02 Running ['artisan' check:expire] .......... 1,316ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:47:02 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:48:02 Running ['artisan' check:expire] .......... 1,395ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:49:02 Running ['artisan' check:expire] .......... 1,328ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:50:02 Running ['artisan' check:expire] .......... 1,340ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:51:02 Running ['artisan' check:expire] .......... 1,422ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:52:02 Running ['artisan' check:expire] .......... 1,397ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:53:02 Running ['artisan' check:expire] .......... 1,396ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:54:02 Running ['artisan' check:expire] .......... 1,400ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:55:03 Running ['artisan' check:expire] .......... 1,367ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:56:02 Running ['artisan' check:expire] .......... 1,337ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:57:02 Running ['artisan' check:expire] .......... 1,325ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:58:02 Running ['artisan' check:expire] .......... 1,311ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 16:59:02 Running ['artisan' check:expire] .......... 1,333ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:00:02 Running ['artisan' check:expire] .......... 2,268ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:01:02 Running ['artisan' check:expire] .......... 1,319ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:02:02 Running ['artisan' check:expire] .......... 1,450ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:03:02 Running ['artisan' check:expire] .......... 1,336ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:04:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:05:02 Running ['artisan' check:expire] .......... 1,353ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:06:02 Running ['artisan' check:expire] .......... 1,403ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:07:02 Running ['artisan' check:expire] .......... 1,321ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:08:02 Running ['artisan' check:expire] .......... 1,463ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:09:02 Running ['artisan' check:expire] .......... 1,348ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:10:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:11:02 Running ['artisan' check:expire] .......... 1,298ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:12:02 Running ['artisan' check:expire] .......... 1,280ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:13:02 Running ['artisan' check:expire] .......... 1,304ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:14:02 Running ['artisan' check:expire] .......... 1,297ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:15:03 Running ['artisan' check:expire] .......... 1,280ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:16:02 Running ['artisan' check:expire] .......... 1,295ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:17:02 Running ['artisan' check:expire] .......... 1,292ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:18:02 Running ['artisan' check:expire] .......... 1,288ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:19:02 Running ['artisan' check:expire] .......... 1,287ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:20:02 Running ['artisan' check:expire] .......... 1,288ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:21:02 Running ['artisan' check:expire] .......... 1,289ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:22:03 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:23:02 Running ['artisan' check:expire] .......... 1,279ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:24:02 Running ['artisan' check:expire] .......... 1,289ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:25:02 Running ['artisan' check:expire] .......... 1,296ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:26:02 Running ['artisan' check:expire] .......... 1,289ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:27:02 Running ['artisan' check:expire] .......... 1,289ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:28:02 Running ['artisan' check:expire] .......... 1,294ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:29:02 Running ['artisan' check:expire] .......... 1,288ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:30:02 Running ['artisan' check:expire] .......... 1,283ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:31:02 Running ['artisan' check:expire] .......... 1,298ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:32:02 Running ['artisan' check:expire] .......... 1,310ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:33:02 Running ['artisan' check:expire] .......... 1,312ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:34:02 Running ['artisan' check:expire] .......... 1,312ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:35:02 Running ['artisan' check:expire] .......... 1,312ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:36:02 Running ['artisan' check:expire] .......... 1,313ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:37:02 Running ['artisan' check:expire] .......... 1,313ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:38:02 Running ['artisan' check:expire] .......... 1,308ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:39:03 Running ['artisan' check:expire] .......... 1,308ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:40:02 Running ['artisan' check:expire] .......... 1,313ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:41:02 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:42:02 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:43:02 Running ['artisan' check:expire] .......... 1,287ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:44:02 Running ['artisan' check:expire] .......... 1,295ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:45:02 Running ['artisan' check:expire] .......... 1,288ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:46:02 Running ['artisan' check:expire] .......... 1,287ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:47:02 Running ['artisan' check:expire] .......... 1,290ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:48:02 Running ['artisan' check:expire] .......... 1,293ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:49:02 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:50:02 Running ['artisan' check:expire] .......... 1,294ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:51:02 Running ['artisan' check:expire] .......... 1,289ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:52:02 Running ['artisan' check:expire] .......... 1,292ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:53:02 Running ['artisan' check:expire] .......... 1,299ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:54:02 Running ['artisan' check:expire] .......... 1,290ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:55:02 Running ['artisan' check:expire] .......... 1,290ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:56:02 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:57:02 Running ['artisan' check:expire] .......... 1,290ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:58:02 Running ['artisan' check:expire] .......... 1,286ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 17:59:02 Running ['artisan' check:expire] .......... 1,295ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:00:02 Running ['artisan' check:expire] .......... 1,360ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:01:03 Running ['artisan' check:expire] .......... 1,477ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:02:02 Running ['artisan' check:expire] .......... 1,568ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:03:02 Running ['artisan' check:expire] .......... 1,484ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:04:02 Running ['artisan' check:expire] .......... 1,366ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:05:02 Running ['artisan' check:expire] .......... 1,367ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:06:03 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:07:02 Running ['artisan' check:expire] .......... 1,512ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:08:02 Running ['artisan' check:expire] .......... 1,562ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:09:02 Running ['artisan' check:expire] .......... 1,389ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:10:02 Running ['artisan' check:expire] .......... 1,399ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:11:02 Running ['artisan' check:expire] .......... 1,418ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:12:02 Running ['artisan' check:expire] .......... 1,397ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:13:03 Running ['artisan' check:expire] .......... 1,406ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:14:02 Running ['artisan' check:expire] .......... 1,416ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:15:02 Running ['artisan' check:expire] .......... 1,402ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:16:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:17:02 Running ['artisan' check:expire] .......... 1,399ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:18:03 Running ['artisan' check:expire] .......... 1,406ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:19:02 Running ['artisan' check:expire] .......... 1,502ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:20:02 Running ['artisan' check:expire] .......... 1,418ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:21:02 Running ['artisan' check:expire] .......... 1,386ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:22:02 Running ['artisan' check:expire] .......... 1,408ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:23:02 Running ['artisan' check:expire] .......... 1,396ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:24:02 Running ['artisan' check:expire] .......... 1,396ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:25:02 Running ['artisan' check:expire] .......... 1,411ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:26:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:27:02 Running ['artisan' check:expire] .......... 1,406ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:28:02 Running ['artisan' check:expire] .......... 1,406ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:29:03 Running ['artisan' check:expire] .......... 1,384ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:30:02 Running ['artisan' check:expire] .......... 1,391ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:31:02 Running ['artisan' check:expire] .......... 1,435ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:32:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:33:02 Running ['artisan' check:expire] .......... 1,396ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:34:03 Running ['artisan' check:expire] .......... 1,387ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:35:02 Running ['artisan' check:expire] .......... 1,390ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:36:02 Running ['artisan' check:expire] .......... 1,397ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:37:02 Running ['artisan' check:expire] .......... 1,401ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:38:02 Running ['artisan' check:expire] .......... 1,408ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:39:03 Running ['artisan' check:expire] .......... 1,388ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:40:02 Running ['artisan' check:expire] .......... 1,407ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:41:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:42:02 Running ['artisan' check:expire] .......... 1,406ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:43:02 Running ['artisan' check:expire] .......... 1,380ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:44:03 Running ['artisan' check:expire] .......... 1,415ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:45:02 Running ['artisan' check:expire] .......... 1,398ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:46:02 Running ['artisan' check:expire] .......... 1,479ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:47:02 Running ['artisan' check:expire] .......... 1,489ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:48:02 Running ['artisan' check:expire] .......... 1,421ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:49:02 Running ['artisan' check:expire] .......... 1,403ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:50:02 Running ['artisan' check:expire] .......... 1,412ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:51:02 Running ['artisan' check:expire] .......... 1,389ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:52:02 Running ['artisan' check:expire] .......... 1,398ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:53:02 Running ['artisan' check:expire] .......... 1,395ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:54:02 Running ['artisan' check:expire] .......... 1,545ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:55:02 Running ['artisan' check:expire] .......... 1,409ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:56:03 Running ['artisan' check:expire] .......... 1,386ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:57:02 Running ['artisan' check:expire] .......... 1,382ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:58:02 Running ['artisan' check:expire] .......... 1,376ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 18:59:02 Running ['artisan' check:expire] .......... 1,397ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:00:02 Running ['artisan' check:expire] .......... 1,438ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:01:02 Running ['artisan' check:expire] .......... 2,454ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:02:02 Running ['artisan' check:expire] .......... 1,409ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:03:02 Running ['artisan' check:expire] .......... 1,482ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:04:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:05:02 Running ['artisan' check:expire] .......... 1,415ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:06:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:07:02 Running ['artisan' check:expire] .......... 1,405ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:08:03 Running ['artisan' check:expire] .......... 1,370ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:09:02 Running ['artisan' check:expire] .......... 1,384ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:10:02 Running ['artisan' check:expire] .......... 1,397ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:11:02 Running ['artisan' check:expire] .......... 1,397ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:12:02 Running ['artisan' check:expire] .......... 1,381ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:13:03 Running ['artisan' check:expire] .......... 1,575ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:14:03 Running ['artisan' check:expire] .......... 1,380ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:15:02 Running ['artisan' check:expire] .......... 1,457ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:16:02 Running ['artisan' check:expire] .......... 1,416ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:17:02 Running ['artisan' check:expire] .......... 1,420ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:18:02 Running ['artisan' check:expire] .......... 1,464ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:19:02 Running ['artisan' check:expire] .......... 1,411ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:20:02 Running ['artisan' check:expire] .......... 1,398ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:21:03 Running ['artisan' check:expire] .......... 1,480ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:22:02 Running ['artisan' check:expire] .......... 1,387ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:23:03 Running ['artisan' check:expire] .......... 1,381ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:24:02 Running ['artisan' check:expire] .......... 1,382ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:25:02 Running ['artisan' check:expire] .......... 1,383ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:26:02 Running ['artisan' check:expire] .......... 1,389ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:27:03 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:28:02 Running ['artisan' check:expire] .......... 1,373ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:29:02 Running ['artisan' check:expire] .......... 1,387ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:30:02 Running ['artisan' check:expire] .......... 1,374ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:31:02 Running ['artisan' check:expire] .......... 1,410ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:32:02 Running ['artisan' check:expire] .......... 1,366ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:33:02 Running ['artisan' check:expire] .......... 1,370ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:34:02 Running ['artisan' check:expire] .......... 1,374ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:35:02 Running ['artisan' check:expire] .......... 1,385ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:36:03 Running ['artisan' check:expire] .......... 1,575ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:37:03 Running ['artisan' check:expire] .......... 1,381ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:38:02 Running ['artisan' check:expire] .......... 1,382ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:39:02 Running ['artisan' check:expire] .......... 1,380ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:40:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:41:03 Running ['artisan' check:expire] .......... 1,380ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:42:02 Running ['artisan' check:expire] .......... 1,384ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:43:02 Running ['artisan' check:expire] .......... 1,373ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:44:02 Running ['artisan' check:expire] .......... 1,371ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:45:03 Running ['artisan' check:expire] .......... 1,380ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:46:02 Running ['artisan' check:expire] .......... 1,383ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:47:02 Running ['artisan' check:expire] .......... 1,364ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:48:02 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:49:03 Running ['artisan' check:expire] .......... 1,376ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:50:02 Running ['artisan' check:expire] .......... 1,363ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:51:02 Running ['artisan' check:expire] .......... 1,364ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:52:02 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:53:02 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:54:02 Running ['artisan' check:expire] .......... 1,373ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:55:02 Running ['artisan' check:expire] .......... 1,365ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:56:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:57:02 Running ['artisan' check:expire] .......... 1,370ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:58:02 Running ['artisan' check:expire] .......... 1,366ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 19:59:02 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:00:02 Running ['artisan' check:expire] .......... 1,754ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:01:02 Running ['artisan' check:expire] .......... 2,312ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:02:02 Running ['artisan' check:expire] .......... 1,369ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:03:03 Running ['artisan' check:expire] .......... 1,528ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:04:03 Running ['artisan' check:expire] .......... 1,394ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:05:02 Running ['artisan' check:expire] .......... 1,399ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:06:02 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:07:02 Running ['artisan' check:expire] .......... 1,388ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:08:02 Running ['artisan' check:expire] .......... 1,383ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:09:02 Running ['artisan' check:expire] .......... 1,361ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:10:02 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:11:02 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:12:03 Running ['artisan' check:expire] .......... 1,460ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:13:03 Running ['artisan' check:expire] .......... 1,418ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:14:02 Running ['artisan' check:expire] .......... 1,295ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:15:02 Running ['artisan' check:expire] .......... 1,404ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:16:02 Running ['artisan' check:expire] .......... 1,411ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:17:02 Running ['artisan' check:expire] .......... 1,303ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:18:02 Running ['artisan' check:expire] .......... 1,317ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:19:02 Running ['artisan' check:expire] .......... 1,317ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:20:02 Running ['artisan' check:expire] .......... 1,323ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:21:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:22:02 Running ['artisan' check:expire] .......... 1,610ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:23:02 Running ['artisan' check:expire] .......... 1,392ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:24:03 Running ['artisan' check:expire] .......... 1,436ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:25:03 Running ['artisan' check:expire] .......... 1,407ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:26:02 Running ['artisan' check:expire] .......... 1,319ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:27:02 Running ['artisan' check:expire] .......... 1,355ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:28:02 Running ['artisan' check:expire] .......... 1,371ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:29:02 Running ['artisan' check:expire] .......... 1,479ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:30:02 Running ['artisan' check:expire] .......... 1,388ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:31:02 Running ['artisan' check:expire] .......... 1,385ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:32:02 Running ['artisan' check:expire] .......... 1,341ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:33:03 Running ['artisan' check:expire] .......... 1,374ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:34:02 Running ['artisan' check:expire] .......... 1,300ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:35:02 Running ['artisan' check:expire] .......... 1,453ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:36:02 Running ['artisan' check:expire] .......... 1,378ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:37:02 Running ['artisan' check:expire] .......... 1,349ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:38:02 Running ['artisan' check:expire] .......... 1,328ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:39:02 Running ['artisan' check:expire] .......... 1,385ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:40:02 Running ['artisan' check:expire] .......... 1,279ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:41:02 Running ['artisan' check:expire] .......... 1,287ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:42:02 Running ['artisan' check:expire] .......... 1,278ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:43:02 Running ['artisan' check:expire] .......... 1,471ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:44:08 Running ['artisan' check:expire] .......... 1,965ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:45:02 Running ['artisan' check:expire] .......... 1,337ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:46:03 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:47:02 Running ['artisan' check:expire] .......... 1,281ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:48:02 Running ['artisan' check:expire] .......... 1,276ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:49:02 Running ['artisan' check:expire] .......... 1,277ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:50:02 Running ['artisan' check:expire] .......... 1,286ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:51:02 Running ['artisan' check:expire] .......... 1,281ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:52:02 Running ['artisan' check:expire] .......... 1,279ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:53:02 Running ['artisan' check:expire] .......... 1,280ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:54:02 Running ['artisan' check:expire] .......... 1,278ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:55:02 Running ['artisan' check:expire] .......... 1,277ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:56:02 Running ['artisan' check:expire] .......... 1,279ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:57:02 Running ['artisan' check:expire] .......... 1,279ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:58:02 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 20:59:02 Running ['artisan' check:expire] .......... 1,448ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:00:02 Running ['artisan' check:expire] .......... 1,300ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:01:02 Running ['artisan' check:expire] .......... 2,164ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:02:02 Running ['artisan' check:expire] .......... 1,322ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:03:02 Running ['artisan' check:expire] .......... 1,357ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:04:02 Running ['artisan' check:expire] .......... 1,435ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:05:02 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:06:03 Running ['artisan' check:expire] .......... 1,311ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:07:02 Running ['artisan' check:expire] .......... 1,318ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:08:02 Running ['artisan' check:expire] .......... 1,342ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:09:02 Running ['artisan' check:expire] .......... 1,323ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:10:02 Running ['artisan' check:expire] .......... 1,299ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:11:02 Running ['artisan' check:expire] .......... 1,449ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:12:02 Running ['artisan' check:expire] .......... 1,319ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:13:02 Running ['artisan' check:expire] .......... 1,407ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:14:02 Running ['artisan' check:expire] .......... 1,447ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:15:02 Running ['artisan' check:expire] .......... 1,318ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:16:03 Running ['artisan' check:expire] .......... 1,280ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:17:02 Running ['artisan' check:expire] .......... 1,277ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:18:02 Running ['artisan' check:expire] .......... 1,325ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:19:02 Running ['artisan' check:expire] .......... 1,326ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:20:02 Running ['artisan' check:expire] .......... 1,325ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:21:02 Running ['artisan' check:expire] .......... 1,369ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:22:02 Running ['artisan' check:expire] .......... 1,414ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:23:02 Running ['artisan' check:expire] .......... 1,289ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:24:02 Running ['artisan' check:expire] .......... 1,309ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:25:02 Running ['artisan' check:expire] .......... 1,386ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:26:02 Running ['artisan' check:expire] .......... 1,293ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:27:02 Running ['artisan' check:expire] .......... 1,313ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:28:02 Running ['artisan' check:expire] .......... 1,358ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:29:02 Running ['artisan' check:expire] .......... 1,528ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:30:02 Running ['artisan' check:expire] .......... 1,324ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:31:02 Running ['artisan' check:expire] .......... 1,368ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:32:02 Running ['artisan' check:expire] .......... 1,278ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:33:02 Running ['artisan' check:expire] .......... 1,300ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:34:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:35:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:36:02 Running ['artisan' check:expire] .......... 1,444ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:37:02 Running ['artisan' check:expire] .......... 1,276ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:38:02 Running ['artisan' check:expire] .......... 1,281ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:39:02 Running ['artisan' check:expire] .......... 1,290ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:40:02 Running ['artisan' check:expire] .......... 1,347ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:41:02 Running ['artisan' check:expire] .......... 1,306ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:42:02 Running ['artisan' check:expire] .......... 1,291ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:43:03 Running ['artisan' check:expire] .......... 1,334ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:44:02 Running ['artisan' check:expire] .......... 1,297ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:45:02 Running ['artisan' check:expire] .......... 1,274ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:46:02 Running ['artisan' check:expire] .......... 1,297ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:47:02 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:48:02 Running ['artisan' check:expire] .......... 1,317ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:49:02 Running ['artisan' check:expire] .......... 1,334ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:50:02 Running ['artisan' check:expire] .......... 1,281ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:51:02 Running ['artisan' check:expire] .......... 1,334ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:52:02 Running ['artisan' check:expire] .......... 1,320ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:53:02 Running ['artisan' check:expire] .......... 1,278ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:54:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:55:02 Running ['artisan' check:expire] .......... 1,287ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:56:03 Running ['artisan' check:expire] .......... 1,313ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:57:02 Running ['artisan' check:expire] .......... 1,293ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:58:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 21:59:02 Running ['artisan' check:expire] .......... 1,304ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:00:02 Running ['artisan' check:expire] .......... 1,302ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:01:02 Running ['artisan' check:expire] .......... 1,336ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:02:03 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:03:02 Running ['artisan' check:expire] .......... 1,327ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:04:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:05:02 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:06:02 Running ['artisan' check:expire] .......... 1,340ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:07:02 Running ['artisan' check:expire] .......... 1,285ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:08:02 Running ['artisan' check:expire] .......... 1,293ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:09:02 Running ['artisan' check:expire] .......... 1,323ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:10:02 Running ['artisan' check:expire] .......... 1,282ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:11:02 Running ['artisan' check:expire] .......... 1,282ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:12:02 Running ['artisan' check:expire] .......... 1,291ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:13:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:14:02 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:15:02 Running ['artisan' check:expire] .......... 1,289ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:16:02 Running ['artisan' check:expire] .......... 1,311ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:17:03 Running ['artisan' check:expire] .......... 1,281ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:18:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:19:02 Running ['artisan' check:expire] .......... 1,307ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:20:02 Running ['artisan' check:expire] .......... 1,282ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:21:02 Running ['artisan' check:expire] .......... 1,334ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:22:02 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:23:02 Running ['artisan' check:expire] .......... 1,280ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:24:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:25:02 Running ['artisan' check:expire] .......... 1,285ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:26:02 Running ['artisan' check:expire] .......... 1,281ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:27:02 Running ['artisan' check:expire] .......... 1,324ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:28:02 Running ['artisan' check:expire] .......... 1,277ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:29:02 Running ['artisan' check:expire] .......... 1,321ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:30:03 Running ['artisan' check:expire] .......... 1,326ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:31:02 Running ['artisan' check:expire] .......... 1,328ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:32:02 Running ['artisan' check:expire] .......... 1,325ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:33:02 Running ['artisan' check:expire] .......... 1,283ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:34:02 Running ['artisan' check:expire] .......... 1,316ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:35:02 Running ['artisan' check:expire] .......... 1,285ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:36:02 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:37:02 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-03 22:38:03 Running ['artisan' check:expire] .......... 1,306ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 11:53:14 Running ['artisan' check:expire] .......... 1,471ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 11:54:09 Running ['artisan' check:expire] .......... 3,187ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 11:55:02 Running ['artisan' check:expire] .......... 1,349ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 11:56:02 Running ['artisan' check:expire] .......... 1,364ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 11:57:02 Running ['artisan' check:expire] .......... 1,373ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 11:58:03 Running ['artisan' check:expire] .......... 1,312ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 11:59:02 Running ['artisan' check:expire] .......... 1,301ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:00:02 Running ['artisan' check:expire] .......... 1,302ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:01:03 Running ['artisan' check:expire] .......... 1,535ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:02:02 Running ['artisan' check:expire] .......... 1,334ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:03:02 Running ['artisan' check:expire] .......... 1,313ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:04:02 Running ['artisan' check:expire] .......... 1,326ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:05:03 Running ['artisan' check:expire] .......... 1,321ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:06:02 Running ['artisan' check:expire] .......... 1,310ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:07:02 Running ['artisan' check:expire] .......... 1,295ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:08:02 Running ['artisan' check:expire] .......... 1,335ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:09:02 Running ['artisan' check:expire] .......... 1,292ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:10:02 Running ['artisan' check:expire] .......... 1,303ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:11:02 Running ['artisan' check:expire] .......... 1,345ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:12:02 Running ['artisan' check:expire] .......... 1,277ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:13:03 Running ['artisan' check:expire] .......... 1,335ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:14:02 Running ['artisan' check:expire] .......... 1,292ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:15:02 Running ['artisan' check:expire] .......... 1,355ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:16:03 Running ['artisan' check:expire] .......... 1,301ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:17:03 Running ['artisan' check:expire] .......... 1,338ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:18:02 Running ['artisan' check:expire] .......... 1,462ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:19:02 Running ['artisan' check:expire] .......... 1,379ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:20:02 Running ['artisan' check:expire] .......... 1,344ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:21:02 Running ['artisan' check:expire] .......... 1,456ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:22:02 Running ['artisan' check:expire] .......... 1,344ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:23:02 Running ['artisan' check:expire] .......... 1,289ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:24:02 Running ['artisan' check:expire] .......... 1,359ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:25:02 Running ['artisan' check:expire] .......... 1,292ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:26:02 Running ['artisan' check:expire] .......... 1,336ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:27:02 Running ['artisan' check:expire] .......... 1,355ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:28:02 Running ['artisan' check:expire] .......... 1,303ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:29:02 Running ['artisan' check:expire] .......... 1,339ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:30:02 Running ['artisan' check:expire] .......... 1,339ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:31:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:32:02 Running ['artisan' check:expire] .......... 1,395ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:33:02 Running ['artisan' check:expire] .......... 1,346ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:34:02 Running ['artisan' check:expire] .......... 1,373ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:35:02 Running ['artisan' check:expire] .......... 1,427ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:36:02 Running ['artisan' check:expire] .......... 1,303ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:37:02 Running ['artisan' check:expire] .......... 1,295ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:38:02 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:39:03 Running ['artisan' check:expire] .......... 1,355ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:40:02 Running ['artisan' check:expire] .......... 1,294ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:41:02 Running ['artisan' check:expire] .......... 1,370ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:42:02 Running ['artisan' check:expire] .......... 1,301ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:43:02 Running ['artisan' check:expire] .......... 1,298ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:44:02 Running ['artisan' check:expire] .......... 1,299ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:45:02 Running ['artisan' check:expire] .......... 1,292ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:46:02 Running ['artisan' check:expire] .......... 1,306ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:47:02 Running ['artisan' check:expire] .......... 1,367ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:48:02 Running ['artisan' check:expire] .......... 1,305ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:49:02 Running ['artisan' check:expire] .......... 1,366ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:50:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:51:02 Running ['artisan' check:expire] .......... 1,333ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:52:02 Running ['artisan' check:expire] .......... 1,363ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:53:02 Running ['artisan' check:expire] .......... 1,299ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:54:02 Running ['artisan' check:expire] .......... 1,308ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:55:02 Running ['artisan' check:expire] .......... 1,364ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:56:02 Running ['artisan' check:expire] .......... 1,293ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:57:02 Running ['artisan' check:expire] .......... 1,296ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:58:02 Running ['artisan' check:expire] .......... 1,336ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 12:59:02 Running ['artisan' check:expire] .......... 1,362ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:00:02 Running ['artisan' check:expire] .......... 1,372ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:01:02 Running ['artisan' check:expire] .......... 1,295ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:02:02 Running ['artisan' check:expire] .......... 1,343ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:03:03 Running ['artisan' check:expire] .......... 1,362ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:04:02 Running ['artisan' check:expire] .......... 1,314ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:05:02 Running ['artisan' check:expire] .......... 1,360ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:06:02 Running ['artisan' check:expire] .......... 1,299ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:07:02 Running ['artisan' check:expire] .......... 1,294ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:08:02 Running ['artisan' check:expire] .......... 1,604ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:09:02 Running ['artisan' check:expire] .......... 1,310ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:10:02 Running ['artisan' check:expire] .......... 1,346ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:11:02 Running ['artisan' check:expire] .......... 1,285ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:12:02 Running ['artisan' check:expire] .......... 1,325ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:13:02 Running ['artisan' check:expire] .......... 1,316ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:14:02 Running ['artisan' check:expire] .......... 1,338ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:15:02 Running ['artisan' check:expire] .......... 1,319ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:16:02 Running ['artisan' check:expire] .......... 1,364ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:17:03 Running ['artisan' check:expire] .......... 1,302ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:18:02 Running ['artisan' check:expire] .......... 1,361ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:19:02 Running ['artisan' check:expire] .......... 1,420ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:20:02 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:21:02 Running ['artisan' check:expire] .......... 1,339ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:22:02 Running ['artisan' check:expire] .......... 1,336ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:23:02 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:24:02 Running ['artisan' check:expire] .......... 1,278ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:25:02 Running ['artisan' check:expire] .......... 1,283ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:26:02 Running ['artisan' check:expire] .......... 1,277ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:27:02 Running ['artisan' check:expire] .......... 1,308ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:28:03 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:29:02 Running ['artisan' check:expire] .......... 1,302ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:30:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:31:02 Running ['artisan' check:expire] .......... 1,283ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:32:02 Running ['artisan' check:expire] .......... 1,333ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:33:02 Running ['artisan' check:expire] .......... 1,277ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:34:02 Running ['artisan' check:expire] .......... 1,297ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:35:02 Running ['artisan' check:expire] .......... 1,329ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:36:02 Running ['artisan' check:expire] .......... 1,337ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:37:02 Running ['artisan' check:expire] .......... 1,285ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:38:02 Running ['artisan' check:expire] .......... 1,292ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:39:02 Running ['artisan' check:expire] .......... 1,327ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:40:02 Running ['artisan' check:expire] .......... 1,284ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:41:03 Running ['artisan' check:expire] .......... 1,304ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:42:02 Running ['artisan' check:expire] .......... 1,286ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:43:02 Running ['artisan' check:expire] .......... 1,327ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:44:02 Running ['artisan' check:expire] .......... 1,337ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:45:02 Running ['artisan' check:expire] .......... 1,276ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:46:02 Running ['artisan' check:expire] .......... 1,277ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:47:02 Running ['artisan' check:expire] .......... 1,333ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:48:02 Running ['artisan' check:expire] .......... 1,282ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:49:02 Running ['artisan' check:expire] .......... 1,335ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:50:02 Running ['artisan' check:expire] .......... 1,281ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:51:02 Running ['artisan' check:expire] .......... 1,338ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:52:02 Running ['artisan' check:expire] .......... 1,279ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:53:02 Running ['artisan' check:expire] .......... 1,274ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:54:02 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:55:02 Running ['artisan' check:expire] .......... 1,285ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:56:02 Running ['artisan' check:expire] .......... 1,277ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:57:02 Running ['artisan' check:expire] .......... 1,275ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:58:02 Running ['artisan' check:expire] .......... 1,324ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 13:59:03 Running ['artisan' check:expire] .......... 1,275ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:00:02 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:01:02 Running ['artisan' check:expire] .......... 1,287ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:02:02 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:03:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:04:02 Running ['artisan' check:expire] .......... 1,310ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:05:02 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:06:02 Running ['artisan' check:expire] .......... 1,279ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:07:03 Running ['artisan' check:expire] .......... 1,330ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:08:02 Running ['artisan' check:expire] .......... 1,331ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:09:02 Running ['artisan' check:expire] .......... 1,336ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:10:02 Running ['artisan' check:expire] .......... 1,279ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:11:02 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:12:02 Running ['artisan' check:expire] .......... 1,315ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:13:02 Running ['artisan' check:expire] .......... 1,272ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:14:02 Running ['artisan' check:expire] .......... 1,335ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:15:02 Running ['artisan' check:expire] .......... 1,280ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:16:02 Running ['artisan' check:expire] .......... 1,367ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:17:02 Running ['artisan' check:expire] .......... 2,133ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:18:02 Running ['artisan' check:expire] .......... 1,332ms DONE
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 14:59:28 Running ['artisan' check:expire] .......... 3,068ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:00:02 Running ['artisan' check:expire] .......... 2,706ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:01:02 Running ['artisan' check:expire] .......... 2,547ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:02:02 Running ['artisan' check:expire] .......... 2,512ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:03:02 Running ['artisan' check:expire] .......... 2,512ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:04:02 Running ['artisan' check:expire] .......... 2,484ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:05:02 Running ['artisan' check:expire] .......... 2,502ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:06:02 Running ['artisan' check:expire] .......... 2,571ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:07:02 Running ['artisan' check:expire] .......... 2,533ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:08:02 Running ['artisan' check:expire] .......... 2,519ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:09:02 Running ['artisan' check:expire] .......... 2,510ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:10:02 Running ['artisan' check:expire] .......... 2,719ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:11:08 Running ['artisan' check:expire] .......... 4,243ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:12:02 Running ['artisan' check:expire] .......... 2,539ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:13:02 Running ['artisan' check:expire] .......... 2,467ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:14:02 Running ['artisan' check:expire] .......... 2,831ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:15:02 Running ['artisan' check:expire] .......... 2,527ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:16:02 Running ['artisan' check:expire] .......... 2,561ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:17:02 Running ['artisan' check:expire] .......... 2,592ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:18:03 Running ['artisan' check:expire] .......... 2,854ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:19:02 Running ['artisan' check:expire] .......... 2,614ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:20:02 Running ['artisan' check:expire] .......... 2,542ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:21:02 Running ['artisan' check:expire] .......... 2,545ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:22:02 Running ['artisan' check:expire] .......... 2,716ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:23:02 Running ['artisan' check:expire] .......... 2,532ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:24:02 Running ['artisan' check:expire] .......... 2,691ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:25:02 Running ['artisan' check:expire] .......... 2,530ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:26:02 Running ['artisan' check:expire] .......... 2,779ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:27:02 Running ['artisan' check:expire] .......... 2,536ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:28:02 Running ['artisan' check:expire] .......... 2,605ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:29:02 Running ['artisan' check:expire] .......... 2,732ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:30:02 Running ['artisan' check:expire] .......... 2,862ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:31:02 Running ['artisan' check:expire] .......... 2,523ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:32:03 Running ['artisan' check:expire] .......... 2,893ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:33:02 Running ['artisan' check:expire] .......... 2,562ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:34:02 Running ['artisan' check:expire] .......... 2,534ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:35:02 Running ['artisan' check:expire] .......... 2,507ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:36:02 Running ['artisan' check:expire] .......... 2,565ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:37:03 Running ['artisan' check:expire] .......... 2,589ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:38:03 Running ['artisan' check:expire] .......... 2,578ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:39:02 Running ['artisan' check:expire] .......... 2,589ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:40:02 Running ['artisan' check:expire] .......... 2,566ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
+
+  2023-08-04 15:41:02 Running ['artisan' check:expire] .......... 2,657ms FAIL
+  ⇂ '/usr/local/bin/php' 'artisan' check:expire > '/dev/null' 2>&1  
+
