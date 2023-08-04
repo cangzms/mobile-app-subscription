@@ -8,6 +8,7 @@ use App\Http\Controllers\CheckSubsController;
 use App\Http\Controllers\CheckOsController;
 use App\Http\Controllers\TriggerEventController;
 use App\Http\Controllers\CallbackController;
+use App\Http\Controllers\ReportController;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,7 +30,10 @@ Route::post('/check', [CheckSubsController::class, 'checkSubs']);
 Route::post('/checkOs', [CheckOsController::class, 'checkOs']);
 
 //CALLBACK
-Route::post('triggerEvent', [TriggerEventController::class, 'trigger'])->name('event.trigger');
-Route::post('callback', [CallbackController::class, 'callback'])->name('event.callback');
+Route::post('triggerEvent', [TriggerEventController::class, 'trigger']);
+Route::post('callback', [CallbackController::class, 'callback']);
+
+//REPORT
+Route::post('report', [ReportController::class, 'getReport']);
 
 

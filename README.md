@@ -31,6 +31,11 @@ Generate laravel app key
 docker exec -ti api_container_id php artisan key:generate
 ````
 
+Migrate
+````
+php artisan migrate:fresh --seed
+````
+
 API
 ````
 Register - DeviceController.php
@@ -52,4 +57,9 @@ app/Listeners/ PostToThirdParty.php
 
 3rd Party Endpoint - CallbackController.php
 Trigger Event - TriggerEventController.php
+````
+
+Report
+````
+ReportController.php
 ````
